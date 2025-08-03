@@ -1,6 +1,3 @@
-
-img< src="https://github.com/ksgriff/ksgriff/blob/main/Crust_layout.jpg" alt="Illustrations of biocrust organisms">
-
 ## About Me
 
 I am a PhD student in the School of Forestry and Center for Ecosystem Science and Society (ECOSS) at Northern Arizona University (NAU). 
