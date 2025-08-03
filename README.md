@@ -18,3 +18,4 @@ I am a PhD student in the School of Forestry and Center for Ecosystem Science an
 ## About This Page
 
 This is the repository for code, data, and associated products related to my research. 
+*Illustrations are my own*
