@@ -1,9 +1,11 @@
 <p align="center"
 
-<img width="400" height="200" src="https://github.com/ksgriff/ksgriff/blob/main/Crustlayout.jpg" alt="Banner image">
+<img width="3500" height="1000" src="https://github.com/ksgriff/ksgriff/blob/main/Crustlayout.jpg" alt="Banner image">
 
 </p
-  
+
+!["banner"](https://github.com/ksgriff/ksgriff/blob/main/Crustlayout.jpg)
+
 ## About Me
 
 I am a PhD student in the School of Forestry and Center for Ecosystem Science and Society (ECOSS) at Northern Arizona University (NAU). 
