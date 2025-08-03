@@ -1,6 +1,6 @@
 ## About Me
 
-I am a PhD student in the School of Forestry and Center for Ecosystem Science and Society at Northern Arizona University (NAU). 
+I am a PhD student in the School of Forestry and Center for Ecosystem Science and Society (ECOSS) at Northern Arizona University (NAU). 
 
 - Find out more about me at: [my website](https://ksgriffen.wixsite.com/mysite).
 - Proud member of the: [DIRT Lab](https://dirtlab.weebly.com/). 
